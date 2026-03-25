@@ -401,3 +401,34 @@ Found a tool or channel missing? PRs welcome! Format: `[Name](URL) | Description
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
+---
+
+## Contributors & Domain Experts
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mlnjsh">
+        <img src="https://github.com/mlnjsh.png" width="80px;" alt="Milan Amrut Joshi"/><br />
+        <sub><b>Milan Amrut Joshi</b></sub>
+      </a><br />
+      <sub>Project Author</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sindresorhus">
+        <img src="https://github.com/sindresorhus.png" width="80px;" alt="Sindre Sorhus"/><br />
+        <sub><b>Sindre Sorhus</b></sub>
+      </a><br />
+      <sub>Awesome lists curator</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/steven2358">
+        <img src="https://github.com/steven2358.png" width="80px;" alt="Steven Van Vaerenbergh"/><br />
+        <sub><b>Steven Van Vaerenbergh</b></sub>
+      </a><br />
+      <sub>Awesome AI tools list</sub>
+    </td>
+  </tr>
+</table>
